@@ -10,7 +10,7 @@ const NavItemUi = ({ content, icon,redirectLink }: NavItemsProps) => {
     return (
         <Link href={redirectLink} className='flex justify-center items-center px-6'>
             <span className='md:text-lg text-xl pl-1'>{icon}</span>
-            <span className='md:text-sm text-lg'>{content}</span>
+            <p className='md:text-sm text-lg'>{content}</p>
         </Link>
     )
 }

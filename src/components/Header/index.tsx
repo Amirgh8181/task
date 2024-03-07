@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import NavLinks from './NavLinks'
+import HeaderRedirectBtn from './HeaderRedirectBtn'
 
 const Header = () => {
     return (
@@ -13,6 +14,7 @@ const Header = () => {
                 height={350}
                 className='w-full h-[70vh]'
             />
+            <HeaderRedirectBtn />
         </header>
     )
 }

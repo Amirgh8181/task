@@ -19,7 +19,9 @@ export default function RootLayout({
 
       <body className={`${vazir.variable}`}>
         <HeaderComponent />
+        <main className="container min-h-screen mx-auto">
           {children}
+        </main>
         <FooterComponent />
       </body>
     </html>
