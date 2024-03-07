@@ -3,6 +3,7 @@ import "@/assets/style/globals.css";
 import HeaderComponent from "@/components/Header";
 import FooterComponent from "@/components/Footer";
 import { vazir } from "@/assets/constant/fonts";
+import ShowRoute from "@/components/ShowRoute";
 
 export const metadata: Metadata = {
   title: "دایرکتوری حذف حساب های کاربری| حق فراموش شدن",
@@ -19,6 +20,7 @@ export default function RootLayout({
 
       <body className={`${vazir.variable}`}>
         <HeaderComponent />
+        <ShowRoute />
         <main className="container min-h-screen mx-auto">
           {children}
         </main>
