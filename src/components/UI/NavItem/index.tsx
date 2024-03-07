@@ -1,17 +1,18 @@
-import Link from 'next/link'
-import React from 'react'
+import NavItemUi from "./NavItemUi"
+import { FaHome, FaListUl, FaNetworkWired, FaScroll, FaNewspaper, FaDonate, FaQuestion } from "react-icons/fa";
 
-interface NavItemsProps {
-    content: string,
-    icon: React.JSX.Element
-    redirectLink:string
-}
-const NavItem = ({ content, icon,redirectLink }: NavItemsProps) => {
+
+const NavItem = () => {
     return (
-        <Link href={redirectLink} className='flex justify-center items-center px-6'>
-            <span className='text-lg pl-1'>{icon}</span>
-            <span className='text-sm'>{content}</span>
-        </Link>
+        <>
+            <NavItemUi content='صفحه اصلی' icon={<FaHome />} redirectLink='/index' />
+            <NavItemUi content='دایرکتوری سرویس ها' icon={<FaListUl />} redirectLink='/directory' />
+            <NavItemUi content='مشارکت کنندگان' icon={<FaNetworkWired />} redirectLink='/collabrator' />
+            <NavItemUi content='بنرها' icon={<FaScroll />} redirectLink='/banners' />
+            <NavItemUi content='وبلاگ' icon={<FaNewspaper />} redirectLink='/blog' />
+            <NavItemUi content='حمایت مالی' icon={<FaDonate />} redirectLink='/donate' />
+            <NavItemUi content='سوالات متداول' icon={<FaQuestion />} redirectLink='/faq' />
+        </>
     )
 }
 

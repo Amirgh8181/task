@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "@/assets/style/globals.css";
 import HeaderComponent from "@/components/Header";
 import FooterComponent from "@/components/Footer";
-
+import { vazir } from "@/assets/constant/fonts";
 
 export const metadata: Metadata = {
   title: "دایرکتوری حذف حساب های کاربری| حق فراموش شدن",
@@ -17,9 +17,9 @@ export default function RootLayout({
   return (
     <html dir="rtl" lang="fa">
 
-      <body>
+      <body className={`${vazir.variable}`}>
         <HeaderComponent />
-        {children}
+          {children}
         <FooterComponent />
       </body>
     </html>

@@ -9,9 +9,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+@font-face {
+  font-family: vazir;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Vazir-FD-WOL.ttf);
+}
 html,
 body {
   scroll-behavior: smooth;
+  font-family: vazir, sans-serif;
 }
 html {
   font-size: 16px;
