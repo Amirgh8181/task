@@ -3,8 +3,9 @@ import JsonData from "@/constants/data.json"
 import { FaTrash } from "react-icons/fa";
 import Link from 'next/link';
 import { FaBolt } from "react-icons/fa";
+import { renderData } from '..';
 
-const CardContainer = () => {
+const CardContainer = ({data}:any) => {
 
 
     return (
