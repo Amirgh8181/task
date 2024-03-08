@@ -16,7 +16,12 @@ const config: Config = {
     },
     extend: {
       colors: {
-        projYello:"#ffe43c"
+        projYello:"#ffe43c",
+        projPink:"#ff1f4f",
+        projRed:"#a32100",
+        projGreen:"#129141",
+        projYello2:"#ffa800",
+
       },
       fontFamily: {
         vazir:['var(--vazir) sans']

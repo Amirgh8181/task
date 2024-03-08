@@ -1,0 +1,2132 @@
+[
+  {
+    "name": "ایمالز",
+    "website": "www.emalls.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "advertisement"
+  },
+  {
+    "name": "ترب",
+    "website": "torob.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "advertisement"
+  },
+  {
+    "name": "ابزار وردپرس",
+    "website": "abzarwp.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "وندار",
+    "website": "vandar.io",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "دیجی کالا",
+    "website": "digikala.com",
+    "deleteurl": "#",
+    "info": "از طریق فرم صفحه تماس با ما  تصویر کارت ملی مالک پروفایل (احراز‌هویت) به همراه متن: اینجانب ..... به دلیل ..... درخواست حذف اکانت کاربری با شماره همراه..... و نمونه کد سفارش ..... را دارم. ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "اسنپ",
+    "website": "snapp.ir",
+    "deleteurl": "#",
+    "info": "درخواست‌تان را از طریق سوپراپلیکیشن ثبت، تیم پشتیبانی پس از بررسی، در یک بازه‌ی ۱۴ روزه، از طریق پیامک به شماره‌ی تلفن متصل به حساب نتیجه را به شما اعلام خواهد کرد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "transport"
+  },
+  {
+    "name": "پونیشا",
+    "website": "ponisha.ir",
+    "deleteurl": "#",
+    "info": "برای مسدود سازی حساب‌کاربری از <a href=\"ponisha.ir/support/new-ticket\" target=\"_blank\" rel=\"nofollow\">بخش پشتیبانی</a> اقدام کنید. همچنین جهت کسب اطلاعات بیشتر به صفحه \"<a href=\"ponisha.ir/help/article/%DA%86%D8%B7%D9%88%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%AD%D8%B0%D9%81-%DA%A9%D9%86%D9%85%D8%9F/\" target=\"_blank\" rel=\"nofollow\">چطور حساب‌کاربری را حذف کنم؟</a>\" مراجعه کنید.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "job"
+  },
+  {
+    "name": "تپسی",
+    "website": "tapsi.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "transport"
+  },
+  {
+    "name": "طرفداری",
+    "website": "tarafdari.com",
+    "deleteurl": "#",
+    "info": "درخواست خود را به ایمیل زیر ارسال کنید:<br>support@tarafdari.com",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "news"
+  },
+  {
+    "name": "زوپ",
+    "website": "getzoop.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "healthcare"
+  },
+  {
+    "name": "سازیتو",
+    "website": "sazito.com",
+    "deleteurl": "#",
+    "info": "از طریق ارسال تیکت درخواست خود را ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "آپارات",
+    "website": "aparat.com",
+    "deleteurl": "aparat.com/user/profile/remove_account",
+    "info": "در صورتی که کانال فعال ندارید با پشتیبانی تماس بگیرید.",
+    "difficulty": "متوسط",
+    "keytype": "medium-label",
+    "priority": "1",
+    "category": "media"
+  },
+  {
+    "name": "جشنواره وب و موبایل ایران",
+    "website": "iwmf.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "event"
+  },
+  {
+    "name": "زرین پال",
+    "website": "zarinpal.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "finance"
+  },
+  {
+    "name": "پی پینگ",
+    "website": "payping.ir",
+    "deleteurl": "#",
+    "info": "درصورتیکه هیچ تراکنشی بر روی حساب انجام نشده باشد امکان حذف حساب وجود دارد که از طریق چت آنلاین و یا تماس با شماره 02191001520 داخلی پشتیبانی می‌توانید درخواست خودتون رو اعلام بفرمایید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "finance"
+  },
+  {
+    "name": "جابینجا",
+    "website": "jobinja.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "job"
+  },
+  {
+    "name": "ابرآروان",
+    "website": "arvancloud.com",
+    "deleteurl": "#",
+    "info": "درخواست مکتوب خود را به آدرس ایمیل support@arvancloud.ir ارسال کنید پس از بررسی از طریق پشتیبانی به شما اطلاع داده می‌شود.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "provider"
+  },
+  {
+    "name": "فیلیمو",
+    "website": "filimo.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "media"
+  },
+  {
+    "name": "نماوا",
+    "website": "namava.ir",
+    "deleteurl": "#",
+    "info": "نیاز است دلیل تمایل خود به حذف حساب به همراه تصویری از کارت ملی به ایمیل support@namava.ir ارسال بفرمایید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "media"
+  },
+  {
+    "name": "اُکالا",
+    "website": "okala.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "e-commerce"
+  },
+  {
+    "name": "نوبیتکس",
+    "website": "nobitex.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "روبیکا",
+    "website": "rubika.ir",
+    "deleteurl": "#",
+    "info": "در نسخه جدید روبیکا در اپلیکیشن موبایل این برنامه امکان حذف حساب‌کاربری بعد از گذشت ۷ روز از نصب و لاگین توسط نرم افزار اندرویدی موجود می‌باشد. هنوز در نسخه دسکتاپ(وب) این امکان وجود ندارد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "messaging"
+  },
+  {
+    "name": "پرشین‌گیگ",
+    "website": "persiangig.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "دکورشاپ",
+    "website": "decorshop.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "فروشگاه کافیته",
+    "website": "cafiteh.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "افرانت",
+    "website": "afranet.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "provider"
+  },
+  {
+    "name": "دیجی پی",
+    "website": "mydigipay.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "finance"
+  },
+  {
+    "name": "همراه کارت",
+    "website": "hamrahcard.ir",
+    "deleteurl": "#",
+    "info": "جهت حذف کامل حساب‌کاربری درخواست خود را از طریق شماره تماس زیر با پشتیبانی در میان بگذارید.</br>02191020009",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "finance"
+  },
+  {
+    "name": "میهن وبهاست",
+    "website": "mihanwebhost.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "provider"
+  },
+  {
+    "name": "نوبتی",
+    "website": "nobati.app",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "reservation"
+  },
+  {
+    "name": "والکس",
+    "website": "wallex.ir",
+    "deleteurl": "#",
+    "info": "تنها در شرایطی که هیچ معامله ای انجام نداده باشید امکان حذف حسابتان وجود دارد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "کوئرا",
+    "website": "quera.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "مفید آنلاین",
+    "website": "emofid.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "کارزار",
+    "website": "karzar.net",
+    "deleteurl": "https://www.karzar.net/panel/tickets/create",
+    "info": "درخواست خود را از طریق همان ایمیل یا شماره موبایلی که امضای خود را ثبت کرده‌اید مبنی بر حذف امضاها برای تیم پشتیبانی از طریق تیکت ارسال کنید.<br>اطلاعات بیشتر:<br>https://www.karzar.net/privacy-policy",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "ویرگول",
+    "website": "virgool.io",
+    "deleteurl": "virgool.io/me/settings",
+    "info": "با انتخاب گزینه حذف حساب‌کاربری در پنل تنظیمات کاربری فرآیند حذف حساب‌کاربری را شروع کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "2",
+    "category": "blog"
+  },
+  {
+    "name": "شعر نو",
+    "website": "shereno.com",
+    "deleteurl": "#",
+    "info": "برای حذف باید پرداخت انجام شود.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "entertainment"
+  },
+  {
+    "name": "میل چی",
+    "website": "mailchi.in",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "messaging"
+  },
+  {
+    "name": "یکتا نت",
+    "website": "yektanet.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "marketing"
+  },
+  {
+    "name": "اپلیکیشن آپ",
+    "website": "asanpardakht.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "راست چین",
+    "website": "rtl-theme.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ژاکت",
+    "website": "zhaket.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "e-commerce"
+  },
+  {
+    "name": "زیگ",
+    "website": "zeeg.me",
+    "deleteurl": "app.zeeg.me/fa/account/settings/delete",
+    "info": "با انتخاب گزینه حذف در تنظیمات حساب، فرآیند حذف حساب‌کاربری را به‌سادگی انجام دهید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "event"
+  },
+  {
+    "name": "رسمیو",
+    "website": "rasm.io",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "سازمان بین‌المللی دانشجویان",
+    "website": "isic.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "مکتب‌خونه",
+    "website": "maktabkhooneh.org",
+    "deleteurl": "#",
+    "info": "برای حذف باید درخواست خود را به ایمیل info@maktabkhooneh.org ارسال کرده و در صورت دریافت تایده از کاربر حساب‌کاربری حذف خواهد شد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "آموزشگاه ارژنگ",
+    "website": "dars.gotoclass.ir",
+    "deleteurl": "dars.gotoclass.ir/account/settings",
+    "info": "در صفحه تنظیمات حساب‌کاربری اقدام به حذف حساب‌کاربری خود کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "جاب ویژن",
+    "website": "jobvision.ir",
+    "deleteurl": "#",
+    "info": "در بخش تنظیمات گزینه غیرفعال‌سازی موقت حساب‌کاربری را انتخاب نمایید. برای حذف دائم از طریق ایمیل ثبت‌نام شده بر روی سایت، درخواست خود را به ایمیل info@jobvision.ir ارسال نمایید تا بررسی و بعد حذف شود.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "job"
+  },
+  {
+    "name": "رایچت",
+    "website": "raychat.io",
+    "deleteurl": "#",
+    "info": "برای حذف وب‌سایت لطفا با ایمیل اصلی سایتتون (info) یک ایمیل به support@raychat.io ارسال کنید و درخواستتون رو مطرح کنید تا براتون حذف بشه.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "messaging"
+  },
+  {
+    "name": "پارس پک",
+    "website": "parspack.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "provider"
+  },
+  {
+    "name": "او‌ام‌پی فینکس",
+    "website": "ompfinex.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "سکوی ابری فندق",
+    "website": "fandogh.cloud",
+    "deleteurl": "#",
+    "info": "جهت کسب اطلاعات به <a href=\"fandogh.cloud/rtbf\" target=\"_blank\" rel=\"nofollow\">صفحه حق فراموش شدن</a> فندق مراجعه کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "سی‌نما",
+    "website": "30nama.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "media"
+  },
+  {
+    "name": "رند دات‌‌آی‌آر",
+    "website": "rond.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "advertisement"
+  },
+  {
+    "name": "دیجیاتو",
+    "website": "digiato.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "news"
+  },
+  {
+    "name": "تلوبیون",
+    "website": "telewebion.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "سی‌وی‌بیلدر",
+    "website": "cvbuilder.me",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "job"
+  },
+  {
+    "name": "کاربوم",
+    "website": "karboom.io",
+    "deleteurl": "#",
+    "info": "برای حذف حساب‌کاربری به آدرس ایمیل support@karboom.io پیام ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "فرادرس",
+    "website": "faradars.org",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "فرانش",
+    "website": "faranesh.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "تسکولو",
+    "website": "taskulu.com",
+    "deleteurl": "#",
+    "info": "برای حذف حساب‌کاربری به آدرس ایمیل support@taskulu.com پیام ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "آلاء",
+    "website": "alaatv.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "اُتیچر",
+    "website": "oteacher.org",
+    "deleteurl": "#",
+    "info": "برای حذف حساب‌کاربری با شماره ی 021-91035423 تماس بگیرید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "ایوند",
+    "website": "evand.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "event"
+  },
+  {
+    "name": "آیدی پی",
+    "website": "idpay.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "ایران سرور",
+    "website": "iranserver.com",
+    "deleteurl": "#",
+    "info": "وارد سیستم پشتیبانی شوید و موضوع حذف حساب کاربری را انتخاب کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "طاقچه",
+    "website": "taaghche.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "یوتایپ",
+    "website": "utype.ir",
+    "deleteurl": "#",
+    "info": "به آدرس زیر ایمیل بزنید و درخواست خودتون رو مطرح کنید:<br>info@utype.ir",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "علی‌بابا",
+    "website": "alibaba.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "travel"
+  },
+  {
+    "name": "ایسام",
+    "website": "esam.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ایرانیکارت",
+    "website": "iranicard.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "متمم",
+    "website": "motamem.org",
+    "deleteurl": "#",
+    "info": "درخواست خود را با ایمیل زیر درمیان بگذارید:<br>info2@motamem.org",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "اپچار",
+    "website": "appchar.com",
+    "deleteurl": "#",
+    "info": "با پشتیبانی تماس بگیرید. info@appchar.com",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "کافه‌بازار",
+    "website": "cafebazaar.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "mobile"
+  },
+  {
+    "name": "اپتو",
+    "website": "appeto.ir",
+    "deleteurl": "#",
+    "info": "با پشتیبانی تماس بگیرید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "فونت‌ایران",
+    "website": "fontiran.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "design"
+  },
+  {
+    "name": "30بوک",
+    "website": "30book.com",
+    "deleteurl": "#",
+    "info": "در صورتی که از سایت خرید نکرده باشید می‌توانید درخواست خود را به ایمیل زیر ارسال کنید:<br>info@30book.com",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "نیوُ",
+    "website": "nivoapp.com",
+    "deleteurl": "#",
+    "info": "با پشتیبانی تماس بگیرید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "بله",
+    "website": "bale.ai",
+    "deleteurl": "#",
+    "info": "برای حذف حساب‌کاربری، کافیست از زبانه بیشتر وارد بخش «تنظیمات» شده و در قسمت «حریم‌خصوصی و امنیت» گزینه «حذف حساب‌کاربری» را انتخاب نمایید. (<a href=\"faq.bale.ai/#%D8%AD%D8%B0%D9%81%20%D8%AD%D8%B3%D8%A7%D8%A8%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C\" target=\"_blank\" rel=\"nofollow\">اطلاعات بیشتر</a>)",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "2",
+    "category": "messaging"
+  },
+  {
+    "name": "واژه‌یاب",
+    "website": "vajehyab.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "سروش‌پلاس",
+    "website": "hi.splus.ir",
+    "deleteurl": "#",
+    "info": "عکس حساب‌کاربری را انتخاب کنید سپس از تنظیمات وارد حریم‌خصوصی و امنیت شوید و از منوی سه نقطه گزینه حذف حساب‌کاربری را انتخاب کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "messaging"
+  },
+  {
+    "name": "مایکت",
+    "website": "myket.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "mobile"
+  },
+  {
+    "name": "دیوار",
+    "website": "divar.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "advertisement"
+  },
+  {
+    "name": "نماشا",
+    "website": "namasha.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "بلاگفا",
+    "website": "blogfa.com",
+    "deleteurl": "blogfa.com/desktop/Options.aspx",
+    "info": "با انتخاب گزینه تنظیمات و دیگر امکانات در بخش حذف وبلاگ و کلیه نوشته‌ها و اطلاعات کاربری فرآیند حذف حساب‌کاربری را به‌سادگی انجام دهید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "1",
+    "category": "blog"
+  },
+  {
+    "name": "کارلنسر",
+    "website": "karlancer.com",
+    "deleteurl": "karlancer.com/panel/profile/edit-profile",
+    "info": "در بخش تنظیمات حساب‌کاربری امکان غیرفعال‌سازی با وارد کردن رمزعبور ممکن می‌باشد.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "1",
+    "category": "job"
+  },
+  {
+    "name": "مدرسه افروز",
+    "website": "afroozschool.org",
+    "deleteurl": "#",
+    "info": "درخواست خود به همراه آدرس ایمیل را به info@afroozschool.org ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "اپلیکیشن 724",
+    "website": "724.ir",
+    "deleteurl": "#",
+    "info": "با مراجعه به بخش حساب‌کاربری و انتخاب گزینه حذف حساب‌کاربری درخواست خود را ثبت کنید",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "کتابراه",
+    "website": "ketabrah.ir",
+    "deleteurl": "#",
+    "info": "در صورتی که کاربر درخواست حذف حساب‌کاربری‌ خود را داشته باشد، نیاز است درخواست خود را به همراه علت از طریق دکمه \"ارسال درخواست پشتیبانی\" ارسال کند.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "باسلام",
+    "website": "basalam.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ایرنیک",
+    "website": "nic.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "پایلی",
+    "website": "pylie.com",
+    "deleteurl": "#",
+    "info": "درخواست خود را با ایمیل زیر درمیان بگذارید:<br>pylieworld@gmail.com",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "زایا",
+    "website": "zaya.io",
+    "deleteurl": "zaya.io/settings/delete",
+    "info": "با انتخاب گزینه حذف حساب‌کاربری در تنظیمات حساب، فرآیند حذف را به‌سادگی انجام دهید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "هیولا",
+    "website": "hayoola.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "game"
+  },
+  {
+    "name": "آرین‌پال",
+    "website": "arianpal.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "کتابناک",
+    "website": "ketabnak.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "بربید سرور",
+    "website": "berbidserver.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "فوسفا",
+    "website": "fossfa.ir",
+    "deleteurl": "#",
+    "info": "• حذف فایل‌های ثبت‌نام و مقالاتش از <a href=\"github.com/FOSSFA/Blog\" target=\"_blank\" rel=\"nofollow\">سورس سایت</a> و درخواست پول ریکویست پول ریکویست به ریپازیتوری سایت</br>• ثبت درخواست از طریق فرم <a href=\"fossfa.ir/contact/\" target=\"_blank\" rel=\"nofollow\"> ارتباط با ما</a>",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "رایانامه چاپار",
+    "website": "chmail.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "اپلای چنس",
+    "website": "applychance.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "گاما",
+    "website": "gama.ir",
+    "deleteurl": "gama.ir/ticket/newticket",
+    "info": "از طریق تیکت امکان حذف حساب‌کاربری وجود دارد اما با توجه به تجربه کاربران توضیحات زیادی از شما خواسته می‌شود.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "اکانتی شاپ",
+    "website": "accountishop.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "فیدیبو",
+    "website": "fidibo.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "information"
+  },
+  {
+    "name": "ایکس نوین",
+    "website": "exnovin.net",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": ""
+  },
+  {
+    "name": "شبکه پرداخت تیپول",
+    "website": "about.tipoul.com",
+    "deleteurl": "panel.tipoul.com/notification/tickets",
+    "info": "حذف حساب‌کاربری با ایجاد تیکتی با همین عنوان از بخش تیکت‌ها در پنل کاربری انجام می‌شود.",
+    "difficulty": "متوسط",
+    "keytype": "medium-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "اکسکوینو",
+    "website": "excoino.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "اوکی اکسچنج",
+    "website": "ok-ex.io",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "سولوکد",
+    "website": "solocode.ir",
+    "deleteurl": "solocode.ir/delete",
+    "info": "درخواست حذف حساب‌کاربری را به ایمیل پشتیبانی سولوکُد ارسال کنید. قبل از ثبت درخواست، نکاتی که در <a href=\"solocode.ir/delete\" target=\"_blank\" rel=\"nofollow\">صفحه حذف حساب‌کاربری</a> نوشته شده را مطالعه کنید.",
+    "difficulty": "متوسط",
+    "keytype": "medium-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "خنیاگر",
+    "website": "khonyagar.com",
+    "deleteurl": "khonyagar.com/dashboard/message/support",
+    "info": "از طریق ارسال تیکت درخواست خود را ثبت کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "وان دی آف",
+    "website": "1dayoff.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "پذیرش24",
+    "website": "paziresh24.com",
+    "deleteurl": "paziresh24.com/home/support-form-other",
+    "info": "جهت حذف حساب‌کاربری درخواست خود را از طریق <a href=\"paziresh24.com/home/support-form-other\" target=\"_blank\" rel=\"nofollow\">صفحه پشتیبانی</a> ثبت کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "travel"
+  },
+  {
+    "name": "اسکای‌روم",
+    "website": "skyroom.online",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "آی بیو",
+    "website": "ibio.link",
+    "deleteurl": "ibio.link/settings",
+    "info": "با انتخاب گزینه حذف در تنظیمات حساب، فرآیند حذف حساب‌کاربری را به‌سادگی انجام دهید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "فایل سل",
+    "website": "filesell.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "بانی مد",
+    "website": "banimode.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ای استخدام",
+    "website": "e-estekhdam.com",
+    "deleteurl": "#",
+    "info": "برای حذف اطلاعات کاربری میبایستی درخواست حذف حساب به ایمیل info@e-estekhdam.com ارسال گردد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "job"
+  },
+  {
+    "name": "مونگارد",
+    "website": "mongard.ir",
+    "deleteurl": "#",
+    "info": "برای حذف اطلاعات کاربری میبایستی درخواست حذف حساب به ایمیل mongard.amir@gmail.com ارسال گردد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "نفیس فایل",
+    "website": "nafisfile.com",
+    "deleteurl": "#",
+    "info": "برای حذف اطلاعات کاربری میبایستی درخواست حذف حساب به ایمیل info@nafisfile.com ارسال گردد.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "تکنولایف",
+    "website": "technolife.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "تماشا",
+    "website": "tamasha.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "جااینجاس",
+    "website": "jainjas.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "travel"
+  },
+  {
+    "name": "حجرک",
+    "website": "hojrak.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "زلکا",
+    "website": "zelkaa.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "سه کلیک",
+    "website": "3click.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "travel"
+  },
+  {
+    "name": "قسطی کلاب",
+    "website": "ghesticlub.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "کارنامه",
+    "website": "karnameh.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "advertisement"
+  },
+  {
+    "name": "کتابچین",
+    "website": "ketabchin.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "ماکسیم",
+    "website": "taximaxim.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "transport"
+  },
+  {
+    "name": "مدرسه نویسندگی",
+    "website": "madresenevisandegi.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "آچارباز",
+    "website": "a4baz.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "transport"
+  },
+  {
+    "name": "اتاقک",
+    "website": "otaghak.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "travel"
+  },
+  {
+    "name": "ازکی",
+    "website": "azki.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "insurance"
+  },
+  {
+    "name": "اقامت ۲۴",
+    "website": "eghamat24.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "travel"
+  },
+  {
+    "name": "الو کانتنت",
+    "website": "alocontent.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "ایران ادز",
+    "website": "iranads.club",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "marketing"
+  },
+  {
+    "name": "باما",
+    "website": "bama.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "advertisement"
+  },
+  {
+    "name": "بیمیتو",
+    "website": "bimito.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "insurance"
+  },
+  {
+    "name": "پلاک",
+    "website": "pelak.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "job"
+  },
+  {
+    "name": "شاواز",
+    "website": "shavaz.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "صباویژن",
+    "website": "sabavision.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "marketing"
+  },
+  {
+    "name": "فینیکس",
+    "website": "phinix.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "لندین",
+    "website": "landin.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "لندو",
+    "website": "lendo.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "e-commerce"
+  },
+  {
+    "name": "همراه مکانیک",
+    "website": "hamrah-mechanic.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "advertisement"
+  },
+  {
+    "name": "گنجور",
+    "website": "ganjoor.net",
+    "deleteurl": "#",
+    "info": "از دکمه «حذف حساب‌کاربری» در پیشخان کاربر استفاده کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "راسا",
+    "website": "rasadm.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "marketing"
+  },
+  {
+    "name": "لیموناد",
+    "website": "limoonad.com",
+    "deleteurl": "#",
+    "info": "برای تغییر ایمیل، تغییر نام‌کاربری یا حذف اکانت با همان ایمیلی که ثبت‌نام کرده‌اید به limoonad@outlook.com ایمیل بزنید. <a href=\"about.limoonad.com/faq-page/\" target=\"_blank\" rel=\"nofollow\">(اطلاعات بیشتر)</a>",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "نویسش",
+    "website": "nevisesh.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "marketing"
+  },
+  {
+    "name": "میزیتو",
+    "website": "mizito.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "نزدیک",
+    "website": "nazdik.org",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "finance"
+  },
+  {
+    "name": "ایزی اپلای",
+    "website": "ezapply.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "مشهد هاست",
+    "website": "mashhadhost.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "پنکیک - پایگاه‌داده ابری",
+    "website": "getpancake.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "provider"
+  },
+  {
+    "name": "Iranians Who Design",
+    "website": "iranianxdesign.com",
+    "deleteurl": "#",
+    "info": "برای حذف اطلاعات در توییتر به حساب‌کاربری <a href=\"twitter.com/IraniansD\" target=\"_blank\" rel=\"nofollow\">@IraniansD</a> پیام دهید. (<a href=\"iranianxdesign.com/about\" target=\"_blank\" rel=\"nofollow\">اطلاعات بیشتر</a>)",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "design"
+  },
+  {
+    "name": "بهینشو",
+    "website": "behinsu24.com",
+    "deleteurl": "#",
+    "info": "از طریق ارسال پیام/تیکت به پشتیبانی درخواست خود را ثبت کنید.",
+    "difficulty": "متوسط",
+    "keytype": "medium-label",
+    "priority": "3",
+    "category": "insurance"
+  },
+  {
+    "name": "میزبان‌سام",
+    "website": "mizbansam.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "IranTalent | ایران‌تلنت",
+    "website": "irantalent.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "job"
+  },
+  {
+    "name": "سرویس ابری لیارا",
+    "website": "liara.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "تترلند - Tether Land",
+    "website": "tetherland.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "انجام میدم",
+    "website": "anjammidam.com",
+    "deleteurl": "#",
+    "info": "از طریق ارسال تیکت درخواست خود را ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "job"
+  },
+  {
+    "name": "لیوویتو",
+    "website": "livito.tv",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "ایتا",
+    "website": "eitaa.com",
+    "deleteurl": "my.eitaa.com",
+    "info": "شماره‌تلفن و رمزعبور یکبارمصرف ارسال شده به اکانت خود را وارد کنید. سپس حساب خود را حذف کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "messaging"
+  },
+  {
+    "name": "نقشه و مسیریاب بلد",
+    "website": "balad.ir",
+    "deleteurl": "help.balad.io/fa/post/61b715a9c34059457b293dcb/%D8%AD%D8%B0%D9%81-%D8%AD%D8%B3%D8%A7%D8%A8-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%84%D8%AF",
+    "info": "در صورتی که می‌خواهید حساب‌کاربری بلد را حذف کنید کافی‌ست متن مورد نظر را به آدرس ایمیل پشتیبانی بلد و یا واتساپ بلد ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "1",
+    "category": "map"
+  },
+  {
+    "name": "شجره ساز",
+    "website": "shajaresaz.com",
+    "deleteurl": "shajaresaz.com/admin/deleteuser",
+    "info": " در صورت نداشتن هیچ نسلی از صفحه لغویت عضویت اقدام کنید و در صورت داشتن نسل مشترک از بخش نسل‌ها به کاربرانی که با آن‌ها نسل مشترک دارید درخواست حذف نسل دهید و در آخر لغو عضویت کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "فروشگاه کاسیا",
+    "website": "casia.ir",
+    "deleteurl": "#",
+    "info": "در بخش پیشخوان گزینه‌ی حق فراموش شدن را بزنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "گنجه هاست",
+    "website": "ganje.host",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "گنجه هاست",
+    "website": "ganje.host",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "ایران وب",
+    "website": "iranweb.org",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "سرور پارس",
+    "website": "pars.host",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "پارس سرور",
+    "website": "parswebserver.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "صبا هاست",
+    "website": "saba.host",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "رادکام",
+    "website": "radcom.co",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "نت افراز",
+    "website": "netafraz.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "آذر آنلاین",
+    "website": "azaronline.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "برتینا",
+    "website": "bertina.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "لیمو هاست",
+    "website": "limoo.host",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "ایران هاست",
+    "website": "iranhost.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "وب رمز",
+    "website": "webramz.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "هاست ایران",
+    "website": "hostiran.net",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "میزبان فا",
+    "website": "mizbanfa.net",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "سون هاست",
+    "website": "7ho.st",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "provider"
+  },
+  {
+    "name": "مستر 90",
+    "website": "mr90.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "game"
+  },
+  {
+    "name": "گرز",
+    "website": "gorz.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "game"
+  },
+  {
+    "name": "تیبان",
+    "website": "tebyan.net",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "entertainment"
+  },
+  {
+    "name": "تسکولو",
+    "website": "taskulu.com/fa",
+    "deleteurl": "#",
+    "info": "درخواست خود را به ایمیل زیر ارسال کنید:<br>Support@taskulu.com",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "تیمچه",
+    "website": "timcheh.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "یار کتاب",
+    "website": "yarketab.com",
+    "deleteurl": "#",
+    "info": "درخواست خود را از بخش پشتیبانی ثبت کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "event"
+  },
+  {
+    "name": "زنبیل",
+    "website": "zanbil.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ایران تلنت",
+    "website": "irantalent.com",
+    "deleteurl": "#",
+    "info": "جهت حذف حساب‌کاربری از طریق آدرس ایمیل info@irantalent.com درخواست خود را ثبت کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "job"
+  },
+  {
+    "name": "Mohit - محیط",
+    "website": "mohit.online",
+    "deleteurl": "panel.mohit.online/dashboard/user-profile",
+    "info": "گزینه حذف در پایین صفحه پروفایل کاربر در پلتفرم و با زدن تیک تایید انجام می‌شود.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "2",
+    "category": "education"
+  },
+  {
+    "name": "اسنپ فود",
+    "website": "snappfood.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "e-commerce"
+  },
+  {
+    "name": "دکوریار",
+    "website": "decoryar.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "ویدابال",
+    "website": "vidabal.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "لوپت",
+    "website": "loo.pet",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "استیم کلاب",
+    "website": "steamclub.ir/",
+    "deleteurl": "https://steamclub.ir/my-account/wpf-delete-account/",
+    "info": "از طریق بخش حذف حساب در پنل کاربری میتوانید حساب کاربری خود را حذف کنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "بازی زولا",
+    "website": "https://zula.ir/",
+    "deleteurl": "#",
+    "info": "حساب شما تا زمانی که دوباره وارد بازی شوید غیر فعال باقی می‌ماند و امکان حذف آن برای همیشه از سیستم وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "game"
+  },
+  {
+    "name": "پروفایل‌سنتر",
+    "website": "https://profile.center",
+    "deleteurl": "#",
+    "info": "تصویر کارت ملی خود را از طریق واتساپ به شماره‌ی ۰۹۳۶۸۸۲۰۸۸۳ ارسال کنید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "information"
+  },
+  {
+    "name": "قرآن صوتی حبل المتین",
+    "website": "myghoran.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "mobile"
+  },
+  {
+    "name": "تایم کد",
+    "website": "timecode.ir",
+    "deleteurl": "#",
+    "info": "درخواست خود را به ایمیل زیر ارسال کنید:<br>info@timecode.ir",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "راکت",
+    "website": "roocket.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "education"
+  },
+  {
+    "name": "دکتر نکست",
+    "website": "drnext.ir",
+    "deleteurl": "#",
+    "info": "با ارسال درخواست به ایمیل زیر داده‌ها تا حد امکان حذف خواهد شد.:<br>support@drnext.ir",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "reservation"
+  },
+  {
+    "name": "شنوتو",
+    "website": "shenoto.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "media"
+  },
+  {
+    "name": "تم فور",
+    "website": "themefour.com",
+    "deleteurl": "#",
+    "info": "از طریق ثبت تیکت پشتیبانی به همراه امضای نامه کتبی (اعلام درخواست حذف حساب کاربری در نامه کتبی) درخواست حذف حساب در سایت امکان‌پذیر است. ",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "بایا",
+    "website": "baya.ir",
+    "deleteurl": "#",
+    "info": "برای اعلام درخواست با شماره 02143992000 تماس حاصل فرمایید.",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "3",
+    "category": "insurance"
+  },
+  {
+    "name": "Shad",
+    "website": "shad.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "1",
+    "category": "messaging"
+  },
+  {
+    "name": "وب داده",
+    "website": "webdade.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "VIP HOST",
+    "website": "viphost.cloud",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "provider"
+  },
+  {
+    "name": "میهمان شو",
+    "website": "mihmansho.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "travel"
+  },
+  {
+    "name": "ایران کتاب",
+    "website": "iranketab.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  },
+  {
+    "name": "آبان‌ تتر",
+    "website": "abantether.com",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "بیت ۲۴",
+    "website": "bit24.cash",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "بیت پین",
+    "website": "bitpin.ir",
+    "deleteurl": "#",
+    "info": "نیاز است درخواست کتبی ارسال شود. جهت کسب اطلاعات بیشتر لینک زیر را مطالعه کنید.<br><a href='https://help.bitpin.ir/fa/article/aia-mitoan-hsab-karbri-bitpin-ra-hthf-krd-1njc1uk/' target='_blank' rel='nofollow noreferrer noopener' title='https://help.bitpin.ir/fa/article/aia-mitoan-hsab-karbri-bitpin-ra-hthf-krd-1njc1uk/'>https://help.bitpin.ir/fa/article/aia-mitoan-hsab-karbri-bitpin-ra-hthf-krd-1njc1uk/</a>",
+    "difficulty": "سخت",
+    "keytype": "hard-label",
+    "priority": "2",
+    "category": "finance"
+  },
+  {
+    "name": "دستیار هوش مصنوعی اول",
+    "website": "avalai.ir",
+    "deleteurl": "#",
+    "info": "به بخش تنظیمات بروید و سپس روی گزینه‌ی Delete account بزنید.",
+    "difficulty": "ساده",
+    "keytype": "easy-label",
+    "priority": "3",
+    "category": "software-as-a-service"
+  },
+  {
+    "name": "زودکس",
+    "website": "zoodex.ir",
+    "deleteurl": "#",
+    "info": "امکان حذف وجود ندارد.",
+    "difficulty": "غیرممکن",
+    "keytype": "impossible-label",
+    "priority": "3",
+    "category": "e-commerce"
+  }
+]
