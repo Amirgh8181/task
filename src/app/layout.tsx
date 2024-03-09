@@ -7,6 +7,13 @@ import ShowRoute from "@/components/ShowRoute";
 export const metadata: Metadata = {
   title: "دایرکتوری حذف حساب های کاربری| حق فراموش شدن",
   description: "برای حذف حساب‌های کاربری خود در سرویس‌ها / اپلیکیشن‌ها / وب‌سایت‌ها می‌توانید از سرویس حق فراموش شدن استفاده کنید. این سرویس به شما این امکان را می‌دهد که از روش حذف حساب‌کاربری خود یا اکانت خود در بخش‌های مختلف اینترنت آگاه شوید.",
+  icons: {
+    icon: {
+      url: "/icon/browserTabShow.png",
+      type: "image/png",
+    },
+    shortcut: { url: "/icon/browserTabShow.png", type: "image/png" },
+  },
 };
 
 export default function RootLayout({

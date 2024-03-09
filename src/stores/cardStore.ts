@@ -22,11 +22,9 @@ export const useCards = create<State & Action>((set) => {
             // read filterValues from state and set user filter value in state filterValues 
             const filterValuesClone: filterObj[] = useCards.getState().filterValues
             filterValuesClone[arg.num].value = arg.value
-            console.log(filterValuesClone);
             set({
                 filterValues: filterValuesClone
             })
-            console.log(filterValuesClone);
 
             // filter data with user filter values and set this to render data
             const cloneMainData: cardData[] = useCards.getState().mainData
@@ -44,8 +42,3 @@ export const useCards = create<State & Action>((set) => {
     }
 })
 
-/*
-            filterValuesClone[1].value ? filterCard = filterCard.filter(q => q.keytype.includes(filterValuesClone[0].value)) : ""
-            filterValuesClone[2].value ? filterCard = filterCard.filter(q => q.category.includes(filterValuesClone[0].value)) : ""
-            filterValuesClone[3].value ? filterCard = filterCard.filter(q => q.priority.includes(filterValuesClone[0].value)) : ""
-*/

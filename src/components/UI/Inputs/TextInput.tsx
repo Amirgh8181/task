@@ -12,7 +12,6 @@ const TextInput = ({  placeholder, inpNumber }: InputProps) => {
             num: inpNumber,
             value: arg
         })
-        console.log(arg);
 
     }
     return (

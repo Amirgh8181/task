@@ -1,4 +1,4 @@
-import { selectinpdata } from "@/types/selectInpCreateData"
+import { selectinpdata } from "@/types/selectInpData"
 
 export const inp1: selectinpdata[] = [
     { value: "easy-label", content: "ساده" },
