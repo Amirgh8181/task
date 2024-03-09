@@ -21,7 +21,9 @@ const config: Config = {
         projRed:"#a32100",
         projGreen:"#129141",
         projYello2:"#ffa800",
-
+        projYello3:"#ffde00",
+        projGray:"#3c3c3c",
+       
       },
       fontFamily: {
         vazir:['var(--vazir) sans']

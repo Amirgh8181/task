@@ -12,7 +12,7 @@ const Header = () => {
                 alt='header-img'
                 width={1300}
                 height={350}
-                className='w-full h-[70vh]'
+                className='w-full md:h-[55vh] h-[30vh]'
             />
             <HeaderRedirectBtn />
         </header>

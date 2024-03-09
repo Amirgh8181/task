@@ -7,7 +7,7 @@ import { FaTwitter } from "react-icons/fa";
 const HeaderRedirectBtn = () => {
 
   return (
-    <div className='hidden md:absolute top-[30%] left-[10%] 2xl:left-[25%] md:flex'>
+    <div className='hidden md:absolute top-[25%] left-[15%] 2xl:left-[25%] md:flex'>
       <RedirectBtn
         bgColor='bg-green-500'
         content='شما هم مشارکت کنید'
