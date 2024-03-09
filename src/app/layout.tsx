@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import "@/assets/style/globals.css";
 import HeaderComponent from "@/components/Header";
 import FooterComponent from "@/components/Footer";
-import { vazir } from "@/assets/constant/fonts";
 import ShowRoute from "@/components/ShowRoute";
 
 export const metadata: Metadata = {
@@ -18,13 +17,19 @@ export default function RootLayout({
   return (
     <html dir="rtl" lang="fa">
 
-      <body className={`${vazir.variable}`}>
+      <body>
         <HeaderComponent />
         <ShowRoute />
         <main className="container min-h-screen mx-auto md:my-12 my-8">
           {children}
         </main>
         <FooterComponent />
+        <div className='w-full grid place-items-center  bg-white py-4'>
+          <p className="w-[80%] h-full flex items-center text-xs 2xl:text-xl">
+            © ۲۰۲۴ - ۲۰۲۱ | این سرویس به صورت متن باز و با لایسنس Apache-2.0 License منتشر شده است. | قوانین سرویس
+          </p>
+        </div>
+
       </body>
     </html>
   );

@@ -1,30 +1,6 @@
 import { create } from "zustand";
-import data from '@/constants/data.json'
-import { useState } from "react";
-
-// Define the interface of the Card state
-interface cardData {
-    name: string,
-    website: string,
-    deleteurl: string,
-    info: string,
-    difficulty: string,
-    keytype: string,
-    priority: string,
-    category: string
-}
-interface filterObj {
-    value: string
-}
-
-interface State {
-    mainData: cardData[],
-    renderData: cardData[],
-    filterValues: filterObj[]
-}
-interface Action {
-    setFilterCards: (arg: { num: number, value: string }) => void
-}
+import data from '@/data/data.json'
+import { Action, State, cardData, filterObj } from "@/types/card";
 
 
 // Initialize a default state
@@ -52,7 +28,7 @@ export const useCards = create<State & Action>((set) => {
             })
             console.log(filterValuesClone);
 
-            // filter data with user filter values
+            // filter data with user filter values and set this to render data
             const cloneMainData: cardData[] = useCards.getState().mainData
             let filterCard: cardData[] = cloneMainData
 

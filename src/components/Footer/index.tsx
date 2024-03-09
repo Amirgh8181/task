@@ -29,13 +29,13 @@ const FooterComponent = () => {
           </h2>
           <p className='text-sm leading-loose md:w-[80%] text-wrap'>
             بسیاری از سرویس های اینترنتی اینگونه عمل می کنند که امکان حذف حساب‌کاربری را به شما نمی دهند و از نظر ما کاربران این موضوع نقض حریم شخصی است. با توجه به حق فراموش شدن یا Right to be forgotten این یک تضاد می باشد.
-            <br/>
+            <br />
             ایده ی اولیه ی این سرویس از
             <Link href={""} className='text-projYello3 font-semibold'> justdeleteme </Link>
             گرفته شده است و بعد از
             <Link href={""} className='text-projYello3 font-semibold'> این توییت </Link>
             تصمیم به راه‌اندازی آن گرفتم.
-            <br/>
+            <br />
             اگر قصد مشارکت دارید
             <Link href={""} className='text-projYello3 font-semibold'>از گیت هاب این کار را انجام دهید.</Link>
           </p>
@@ -43,7 +43,7 @@ const FooterComponent = () => {
         <div className='text-white space-y-4'>
           <h2 className='text-2xl'>راهنمای استفاده</h2>
           <p className='text-sm'>برچسب های رنگی زیر مقدار سختی حذف حساب‌کاربری وب‌سایت/سرویس را نمایش می دهد:</p>
-          
+
           <div className='text-sm space-y-4'>
             <div className='flex items-center'>
               <button className='bg-projGreen w-[25%] py-2 rounded-lg'>ساده</button>
@@ -61,11 +61,11 @@ const FooterComponent = () => {
               <button className='bg-black w-[25%] py-2 rounded-lg'>غیرممکن</button>
               <p> - غیر قابل حذف</p>
             </div>
-           <p className='text-sm'>
-           برای افزودن سرویس جدید
-            <Link href={"/issue"} className='text-projYello3 font-semibold'> از اینحا </Link>
-            شروع کنید.
-           </p>
+            <p className='text-sm'>
+              برای افزودن سرویس جدید
+              <Link href={"/issue"} className='text-projYello3 font-semibold'> از اینحا </Link>
+              شروع کنید.
+            </p>
           </div>
         </div>
       </div>

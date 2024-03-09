@@ -25,9 +25,7 @@ const config: Config = {
         projGray:"#3c3c3c",
        
       },
-      fontFamily: {
-        vazir:['var(--vazir) sans']
-      },
+
     },
   },
   plugins: [],

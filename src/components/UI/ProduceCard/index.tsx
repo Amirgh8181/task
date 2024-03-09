@@ -4,16 +4,8 @@ import React from 'react'
 import { FaTrash } from "react-icons/fa";
 import { FaBolt } from "react-icons/fa";
 import { useCards } from '@/stores/cardStore';
-export interface ProduceCardProp {
-  name: string,
-  website: string,
-  deleteurl: string,
-  info: string,
-  difficulty: string,
-  keytype: string,
-  priority: string,
-  category: string
-}
+import { FaPlus } from "react-icons/fa";
+
 
 const ProduceCard = () => {
   const { renderData } = useCards()
@@ -58,6 +50,7 @@ const ProduceCard = () => {
               {item.deleteurl !== "#" &&
                 <Link
                   href={`https://${item.deleteurl}`}
+                  target='_blank'
                   className='bg-projPink text-white text-[13px] flex justify-center 
                                         items-center px-4 py-2 rounded-lg hover:text-black transition-all duration-500'
                 >
@@ -69,6 +62,15 @@ const ProduceCard = () => {
           </div>
         )
       }
+      <Link
+        href={"/issue"}
+        className='flex justify-center items-center border 2xl:h-[30vh] h-[40vh]
+                    rounded-xl bg-projGreen text-white'
+      >
+        <h3>
+          <FaPlus />
+        </h3>
+      </Link>
     </>
   )
 }

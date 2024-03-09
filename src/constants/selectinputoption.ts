@@ -1,15 +1,12 @@
-export interface selectinpdata{
-    value:string,
-    content:string
-}
+import { selectinpdata } from "@/types/selectInpCreateData"
 
-export const inp1:selectinpdata[] = [
+export const inp1: selectinpdata[] = [
     { value: "easy-label", content: "ساده" },
     { value: "medium-label", content: "متوسط" },
     { value: "hard-label", content: "سخت" },
     { value: "impossible-label", content: "غیر‌ممکن" },
 ]
-export const inp2:selectinpdata[] = [
+export const inp2: selectinpdata[] = [
     { value: "e-commerce", content: "فروشگاهی" },
     { value: "transport", content: "حمل و نقل" },
     { value: "job", content: "کاریابی" },
@@ -35,7 +32,7 @@ export const inp2:selectinpdata[] = [
     { value: "insurance", content: "بیمه" },
 ]
 
-export const inp3:selectinpdata[] = [
+export const inp3: selectinpdata[] = [
     { value: "1", content: "سرویس هایی که استفاده روزمره دارند" },
     { value: "2", content: "سرویس هایی که استفاده روزمره ندارند" },
     { value: "3", content: "سرویس هایی که کم کاربردند" },

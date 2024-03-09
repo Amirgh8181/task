@@ -1,5 +1,4 @@
 "use client"
-
 import NavItem from "@/components/UI/NavItem";
 import { AnimatePresence, motion } from "framer-motion";
 import { useState } from "react"
@@ -30,7 +29,7 @@ const MobileNav = () => {
     <nav>
       <div
         onClick={() => setOpenMenu(!openMenu)}
-        className="fixed left-0 top-0  m-[2vw] text-xl bg-projYello p-2 rounded-md border
+        className="md:hidden fixed left-0 top-0  m-[2vw] text-xl bg-projYello p-2 rounded-md border
                    border-black/30 text-black/50 cursor-pointer z-40"
       >
         <IoMenu />

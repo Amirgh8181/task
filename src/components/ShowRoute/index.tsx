@@ -1,11 +1,10 @@
 "use client"
-import { useParams, usePathname } from 'next/navigation'
+import { usePathname } from 'next/navigation'
 import React, { useEffect, useState } from 'react'
 
 const ShowRoute = () => {
     const [routeName, setRouteName] = useState<string>("")
     const pathname = usePathname()
-    console.log(pathname);
     useEffect(() => {
         setRouteName(
             pathname === "/" ? "خانه"

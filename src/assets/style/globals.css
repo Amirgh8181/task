@@ -30,3 +30,16 @@ body {
   min-height: 100vh;
   background: #f9fbfc;
 }
+h3 {
+  font-size: clamp(1.5vh, 2rem, 6vw);
+  font-family: $shabnamFont;
+}
+h4 {
+  font-size: clamp(1vh, 1.4rem, 4vw);
+}
+
+@layer components{
+  .inputContainer{
+    @apply w-full flex flex-col items-center space-y-2 mt-4 self-start
+  }
+}

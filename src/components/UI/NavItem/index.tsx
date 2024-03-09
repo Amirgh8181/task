@@ -5,7 +5,7 @@ import { FaHome, FaListUl, FaNetworkWired, FaScroll, FaNewspaper, FaDonate, FaQu
 const NavItem = () => {
     return (
         <>
-            <NavItemUi content='صفحه اصلی' icon={<FaHome />} redirectLink='/index' />
+            <NavItemUi content='صفحه اصلی' icon={<FaHome />} redirectLink='/' />
             <NavItemUi content='دایرکتوری سرویس ها' icon={<FaListUl />} redirectLink='/directory' />
             <NavItemUi content='مشارکت کنندگان' icon={<FaNetworkWired />} redirectLink='/collabrator' />
             <NavItemUi content='بنرها' icon={<FaScroll />} redirectLink='/banners' />
