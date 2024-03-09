@@ -8,8 +8,8 @@ const ShowRoute = () => {
     console.log(pathname);
     useEffect(() => {
         setRouteName(
-            pathname === '/' || pathname === "/directory" ? "دایرکتوری سرویس ها"
-                : pathname === "/index" ? "خانه"
+            pathname === "/" ? "خانه"
+                : pathname === "/directory" ? "دایرکتوری سرویس ها"
                     : pathname === "/collabrator" ? "مشارکت کنندگان"
                         : pathname === "/banners" ? "بنرها"
                             : pathname === "/blog" ? "وبلاگ"

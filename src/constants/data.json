@@ -1649,16 +1649,7 @@
     "priority": "2",
     "category": "provider"
   },
-  {
-    "name": "گنجه هاست",
-    "website": "ganje.host",
-    "deleteurl": "#",
-    "info": "امکان حذف وجود ندارد.",
-    "difficulty": "غیرممکن",
-    "keytype": "impossible-label",
-    "priority": "2",
-    "category": "provider"
-  },
+
   {
     "name": "ایران وب",
     "website": "iranweb.org",
@@ -1829,16 +1820,7 @@
     "priority": "3",
     "category": "entertainment"
   },
-  {
-    "name": "تسکولو",
-    "website": "taskulu.com/fa",
-    "deleteurl": "#",
-    "info": "درخواست خود را به ایمیل زیر ارسال کنید:<br>Support@taskulu.com",
-    "difficulty": "سخت",
-    "keytype": "hard-label",
-    "priority": "2",
-    "category": "software-as-a-service"
-  },
+
   {
     "name": "تیمچه",
     "website": "timcheh.com",

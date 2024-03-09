@@ -1,4 +1,3 @@
-"use client"
 import SelectInput from '@/components/UI/Inputs/SelectInput';
 import TextInput from '@/components/UI/Inputs/TextInput';
 import RedirectBtn from '@/components/UI/RedirectBtn';
@@ -9,7 +8,7 @@ import { FaGlobe } from "react-icons/fa";
 import { FaSitemap } from "react-icons/fa";
 import { FaTag } from "react-icons/fa";
 
-const CardFilter = ({filterData}:{filterData:(arg:{number:string,value:string})=>void}) => {
+const CardFilter = () => {
 
     return (
         <div className='w-full flex flex-col items-center justify-center mb-8'>
@@ -29,36 +28,29 @@ const CardFilter = ({filterData}:{filterData:(arg:{number:string,value:string})=
                     label='نام سرویس'
                     icon={<FaGlobe />}
                     placeholder='نام سرویس مورد نظر خود را بنویسید...'
-                    filterData={filterData}
-                    inpNumber='1'
+                    inpNumber={0}
                 />
                 <div className='w-[90%] grid grid-cols-1 md:grid-cols-3 gap-4'>
                     <SelectInput
                         placeholder='همه موارد'
                         label='وضعیت سرویس ها'
                         icon={<FaTag />}
-                        filterData={filterData}
                         inpDetails={inp1}
-                        inpNumber='2'
-
+                        inpNumber={1}
                     />
                     <SelectInput
                         placeholder='دسته بندی ها'
                         label='دسته بندی سرویس ها'
                         icon={<FaSitemap />}
-                        filterData={filterData}
                         inpDetails={inp2}
-                        inpNumber='3'
-
+                        inpNumber={2}
                     />
                     <SelectInput
                         placeholder='همه موارد'
                         label='اولویت سرویس ها'
                         icon={<></>}
-                        filterData={filterData}
                         inpDetails={inp3}
-                        inpNumber='4'
-
+                        inpNumber={3}
                     />
                 </div>
             </form>

@@ -1,21 +1,24 @@
+"use client"
 import { selectinpdata } from '@/constants/selectinputoption'
+import { useCards } from '@/stores/cardStore'
 import React from 'react'
 
 export interface InputProps {
     label: string,
     placeholder: string,
     icon: React.JSX.Element,
-    filterData: (arg: { number: string, value: string }) => void,
     inpDetails?: selectinpdata[]
-    inpNumber: string
+    inpNumber: number
 }
 
-const TextInput = ({ label, placeholder, icon, filterData, inpNumber }: InputProps) => {
+const TextInput = ({ label, placeholder, icon, inpNumber }: InputProps) => {
+    const { setFilterCards } = useCards()
     const changeVal = (arg: string) => {
-        filterData({
-            number: inpNumber,
-            value: arg
-        })
+        setFilterCards({
+             num: inpNumber,
+             value: arg
+         })
+        console.log(arg);
 
     }
     return (
@@ -31,9 +34,8 @@ const TextInput = ({ label, placeholder, icon, filterData, inpNumber }: InputPro
             <input
                 name='textInp'
                 placeholder={placeholder}
-                className='w-[90%] border focus:border-projGreen outline-none placeholder:text-sm py-2 px-2 rounded-md text-sm
-                
-                '
+                className='w-[90%] border focus:border-projGreen outline-none placeholder:text-sm py-2 px-2
+                 rounded-md text-sm'
                 onChange={e => changeVal(e.target.value)}
             />
         </div>

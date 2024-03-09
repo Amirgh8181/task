@@ -1,15 +1,19 @@
 "use client"
 import React, { useState } from 'react'
 import { InputProps } from './TextInput'
+import { useCards } from '@/stores/cardStore';
 
-const SelectInput = ({ label, placeholder, icon, filterData, inpDetails, inpNumber }: InputProps) => {
+const SelectInput = ({ label, placeholder, icon, inpDetails, inpNumber }: InputProps) => {
 
   const [selectedFilter, setSelectedFilter] = useState<string>('');
+  const { setFilterCards } = useCards()
+
   const changeVal = (arg: string) => {
     setSelectedFilter(arg)
-    filterData({
-       number: inpNumber,
-        value: arg !== "all" ? arg : "" })
+    setFilterCards({
+      num: inpNumber,
+      value: arg !== "all" ? arg : ""
+    })
   }
 
   return (
